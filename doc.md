@@ -1150,11 +1150,6 @@ import { Helmet } from '@umijs/max';
 #### umi使用路由
 
 ```javascript
-```
-
-#### pro-components常见使用
-
-```javascript
 import { history, Link, useParams, useSearchParams } from '@umijs/max';
 
 // 跳转路由

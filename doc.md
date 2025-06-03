@@ -4,8 +4,6 @@
 [ant design文档](https://ant.design/components/table-cn)  
 [umiJs文档](https://umijs.org/docs/max/data-flow)  
 [antd design pro 文档](https://pro.ant.design/zh-CN/docs/overview)  
-```javascript
-```
 
 #### pro-components常见使用
 

@@ -12,6 +12,19 @@
  */
 export default [
   {
+    name: 'demo',
+    icon: 'user',
+    path: '/demo',
+    routes: [
+      {
+        name: 'demo1',
+        icon: 'smile',
+        path: '/demo/demo1',
+        component: './demo/demo1',
+      },
+    ],
+  },
+  {
     path: '/user',
     layout: false,
     routes: [
